@@ -1,0 +1,3 @@
+echo "creating an addition file"
+sum=$(($number1+$number2))
+echo "done with calculation"
