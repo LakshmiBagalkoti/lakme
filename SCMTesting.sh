@@ -3,4 +3,4 @@ sum=$(($number1+$number2))
 echo $sum
 echo "printed output session completed"
 echo "SCM polling needs to be started"
-echo "still trying"
+##echo "still trying"
